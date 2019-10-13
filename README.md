@@ -1,3 +1,7 @@
 # Plain Style Syyntax Header
 
 Reset Syntax Theme header style.
+
+## Screenshot
+
+![screenshot](https://raw.githubusercontent.com/guri3/plain-style-syntax-header/master/Screenshot.png)
