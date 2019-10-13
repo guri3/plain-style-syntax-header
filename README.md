@@ -1,4 +1,4 @@
-# Plain Style Syyntax Header
+# Plain Style Syntax Header
 
 Reset Syntax Theme header style.
 
