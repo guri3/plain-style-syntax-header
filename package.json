@@ -1,0 +1,13 @@
+{
+  "name": "plain-style-syntax-header",
+  "main": "./lib/index.js",
+  "version": "0.1.0",
+  "description": "Reset Syntax Theme header style.",
+  "keywords": [],
+  "repository": "https://github.com/guri3/plain-style-syntax-header",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^4.x"
+  },
+  "dependencies": {}
+}
