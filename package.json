@@ -1,7 +1,7 @@
 {
   "name": "plain-style-syntax-header",
   "main": "./lib/index.js",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Reset Syntax Theme header style.",
   "keywords": [],
   "repository": "https://github.com/guri3/plain-style-syntax-header",
